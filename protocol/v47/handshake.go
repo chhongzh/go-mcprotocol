@@ -1,6 +1,6 @@
 package v47
 
-import mcprotocol "github.com/chhongzh/go-mc-protocol"
+import mcprotocol "github.com/chhongzh/go-mcprotocol"
 
 type Handshake struct {
 	Version int32
