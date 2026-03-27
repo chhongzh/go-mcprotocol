@@ -1,4 +1,4 @@
-module github.com/chhongzh/go-mc-protocol
+module github.com/chhongzh/go-mcprotocol
 
 go 1.25.0
 
